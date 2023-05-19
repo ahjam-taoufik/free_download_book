@@ -6,5 +6,9 @@
 
 site:*.com intitle:”Thank You For Your Order” intext:Click Here to Download
 
+site:*.com intitle:”Thank You For Your Purchase” intext:Click Here to Download
+
+
+
 
 
