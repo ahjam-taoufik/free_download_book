@@ -15,6 +15,9 @@ intitle:Thank you for your order! intext:PLR OR MRR
 
 
 intitle:Thank you for your Purchase! intext:PLR OR MRR
+inurl:/thankyou*.html intitle:Thank you for your order! 
+
+
 
 
 
