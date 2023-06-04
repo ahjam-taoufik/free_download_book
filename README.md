@@ -22,6 +22,12 @@ intext:Click Here to Download
 inurl:thanks intext:”Thank You For Your Order!” “Click Here” filetype:html
 
 
+intitle:Thank You For Your Order! intext:Private Label
+
+
+
+
+
 
 
 
