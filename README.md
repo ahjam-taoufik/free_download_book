@@ -31,6 +31,10 @@ intitle:Thank You For Your Purchased! intext:Private Label
 intext:”Thank You For Your Order” intext:PLR
 
 
+intitle:”Thank You For Your Order!” intext:download
+
+
+
 
 
 
