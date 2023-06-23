@@ -43,6 +43,7 @@ intitle:Thank you for your purchase! intext:Click Here to Download
 * 
 * intitle:Thank you for your Purchase! intext:PLR OR MRR OR Package OR Bonus
 
+* intitle:Thank you for your order! intext:PLR OR MRR
 
 
 
