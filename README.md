@@ -48,6 +48,9 @@ intitle:Thank you for your purchase! intext:Click Here to Download
 
 * intitle:Thank You For Your Purchase! intext:Click Here to Download
 
+* intitle:Thank You For Your Order! intext:download
+
+
 
 
 
