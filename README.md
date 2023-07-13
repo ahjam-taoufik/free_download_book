@@ -68,6 +68,8 @@ inurl:/thankyou*.html intitle:Thank you for your order! intext:Click Here to Dow
 
 inurl:thanks intext:"Thank You For Your Order!" "Click Here" filetype:html
 
+intitle:Thank You For Your Order! intext:Private Label
+
 
 
 
