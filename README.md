@@ -70,6 +70,8 @@ inurl:thanks intext:"Thank You For Your Order!" "Click Here" filetype:html
 
 intitle:Thank You For Your Order! intext:Private Label
 
+intitle:Thank You For Your Purchased! intext:Private Label
+
 
 
 
