@@ -77,6 +77,8 @@ intitle:Thank You For Your Purchased! intext:Private Label
 
 intext:"Thank You For Your Order" intext:PLR
 
+"Thank You For Your Order!" intext:Master Resell filetype:html
+
 
 
 
