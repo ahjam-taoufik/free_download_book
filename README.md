@@ -79,6 +79,9 @@ intext:"Thank You For Your Order" intext:PLR
 
 "Thank You For Your Order!" intext:Master Resell filetype:html
 
+"Thank You For Your Order! Your Credit Card Will Show A Charge From"
+
+
 
 
 
