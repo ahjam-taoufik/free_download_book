@@ -81,6 +81,9 @@ intext:"Thank You For Your Order" intext:PLR
 
 "Thank You For Your Order! Your Credit Card Will Show A Charge From"
 
+intitle:"Thank You For Your Order!" intext:download
+
+
 
 
 
