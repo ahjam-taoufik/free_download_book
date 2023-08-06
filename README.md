@@ -85,6 +85,8 @@ intitle:"Thank You For Your Order!" intext:download
 
 intitle:"Thank You For Your Order!" intext:download
 
+intitle:"Thank You For Your Order" intext:Click Here To Download Now
+
 
 
 
